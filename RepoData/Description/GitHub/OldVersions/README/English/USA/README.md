@@ -1,0 +1,1 @@
+🇰.🇽.🔎️📖️ The official documentation source repostiory for SearchKX, an optional search engine addon that helps filter the Internet for personal use to be more friendly towards all through the use of a curated network. 
